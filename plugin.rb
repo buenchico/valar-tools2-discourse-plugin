@@ -1,4 +1,8 @@
-# plugins/your-plugin-name/plugin.rb
+# name: valar-tools2-discourse-plugin
+# about: Interconnecting the forum with the tools for Valar
+# version: 0.0.1
+# authors: Buenchico
+# url: https://github.com/buenchico/valar-tools2-discourse-plugin
 
 # add the required dependencies
 gem 'net-http-persistent'
